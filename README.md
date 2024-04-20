@@ -1,4 +1,5 @@
 INSTAGRAM
+
 BACKEND:
 
 Java:
@@ -43,3 +44,5 @@ Complete Installation:
 
 Complete the installation process as guided above.
 ER DIAGRAM:
+![image](https://github.com/sridhar07github/Instagram-Application/assets/147645506/3869494a-9750-4b8d-a4e0-7e236ff329cd)
+

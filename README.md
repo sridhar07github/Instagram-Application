@@ -1,14 +1,17 @@
+# INSTAGRAM
 
 BACKEND:
 
 Java:
 
 Java is chosen for its platform independence and scalability. The Java programming language, coupled with frameworks like Spring, provides a robust foundation for building scalable and maintainable applications.
+
 Spring Boot, a popular Java framework, simplifies the development of web applications by offering features like dependency injection, data access, and security.
 
 MySQL:
 
 MySQL is an open-source relational database management system commonly used in conjunction with Java applications. It is known for its reliability, performance, and ease of integration.
+
 The database schema would be designed to store user data, posts, comments, and other relevant information. Relationships between entities would be modeled to ensure efficient data retrieval.
 
 INSTALLATION:

@@ -15,6 +15,7 @@ public class UserService {
     public User saveDetails(User user)
     {
        return userRepo.save(user);
+    
     }
 
 }

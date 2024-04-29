@@ -1,5 +1,16 @@
 # INSTAGRAM
 
+ Features:
+ 
+ User authentication (signup, login, logout)
+ Profile management (update profile picture, bio, etc.)
+ Post creation (uploading images, adding captions)
+ Like and comment on postsFollow/unfollow users
+ Explore page (discover new posts/users)
+ Notifications (likes, comments, follows)
+ Messaging (direct messaging between users)
+ Search functionality
+
 BACKEND:
 
 Java:
